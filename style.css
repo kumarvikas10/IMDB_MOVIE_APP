@@ -29,7 +29,7 @@ img{
 .main .container{
     display: flex;
     color: #fff;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0 1rem;
 }
@@ -37,14 +37,14 @@ img{
 .movies-container{
     display: flex;
     color: #fff;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0 1rem;
 }
 .fav-container{
     display: flex;
     color: #fff;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0 1rem;
 }
@@ -187,7 +187,7 @@ img{
 
 .tabs{
     color: #fff;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 1%;
     padding: 0 1rem;
 
@@ -240,7 +240,7 @@ img{
     display: none;
     /* display: flex; */
     color: #fff;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0 1rem;
   }
